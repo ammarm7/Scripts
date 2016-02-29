@@ -15,7 +15,7 @@ adb shell rm /sdcard/${name}
 open ~/Desktop/${name}
 
 
-
+#This is a line of code
 
 
 # echo -e "Name of file: \c"
@@ -26,8 +26,6 @@ open ~/Desktop/${name}
 # mv ${name}.png ~/Desktop
 # adb shell rm /sdcard/${name}.png
 # open ~/Desktop/${name}.png
-
-
  # echo -e "Please type your name: \c"
  # read name 
  # echo "Your name is: $name"
